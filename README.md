@@ -7,6 +7,8 @@
 ---------
 - *Atualmente estou aprendendo a linguagem Python*🧑‍💻
 
+- Desenvolvedor de Projetos UX | UI 📑
+
 - *Construindo uma nova carreira como Dev*🌱
 
 - *Em busca de aprimorar meus conhecimentos*💡
